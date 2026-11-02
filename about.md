@@ -15,7 +15,7 @@ Senior Unity Developer с 8+ годами коммерческого опыта 
 
 ### Senior Unity Developer | [Fruitshake](https://ru.linkedin.com/company/fruitshake)
 
-*Февраль 2023 - сентябрь 2026 | Remote*
+*Февраль 2023 - Сентябрь 2026 | Remote*
 
 #### [Laundry Simulator](https://play.google.com/store/apps/details?id=com.fruitshake.laundry.sim&hl=en)
 
@@ -57,7 +57,7 @@ Senior Unity Developer с 8+ годами коммерческого опыта 
 
 ### Middle Unity Developer | [Lipsar Studio](https://games.lipsar.studio)
 
-*Август 2021 - февраль 2023 | Remote*
+*Август 2021 - Февраль 2023 | Remote*
 
 #### [Epic Army Clash](https://play.google.com/store/apps/details?id=stickman.fun.city.running)
 
@@ -78,7 +78,7 @@ Senior Unity Developer с 8+ годами коммерческого опыта 
 
 ### Junior Unity Developer | [Dorfer Games](https://ru.linkedin.com/company/dorfer-games?trk=ppro_cprof)
 
-*Август 2020 - август 2021 | Remote*
+*Август 2020 - Август 2021 | Remote*
 
 - [11 Hyper Casual](https://drive.google.com/drive/folders/1TmTmEzcIILdpELz7NUHEsn6jwiMzC9em?usp=drive_link) игр с нуля
 - Полный цикл: архитектура, прототипирование, релиз
@@ -88,10 +88,10 @@ Senior Unity Developer с 8+ годами коммерческого опыта 
 
 ### Intern Unity Developer | [PushKeen](https://pushkeen.ru)
 
-*Июль 2018 - август 2020 | Hybrid*
+*Июль 2018 - Август 2020 | Hybrid*
 
 - VR-проекты для музеев с изучением виртуального окружения: [Шалаш Ленина](https://drive.google.com/file/d/13blS5qdJJ06ANvUf7Rj2yhJyA5h5V7JV/view?usp=drive_link), [Музей Зощенко](https://drive.google.com/file/d/1FnoTLSxaIhF2RQocMXcgrMt2RoRwHxlE/view?usp=drive_link)
-- [VR Graffiti](https://drive.google.com/file/d/1j_qiP1AdFVYgPSvCYvl87e3BGfqrVPNC/view?usp=drive_link) и [VR Greece](https://drive.google.com/file/d/1PSA6ahxxrxiUU1AGNMPpVsnxgAj1zvbR/view?usp=drive_link)
+- Другие VR-проекты [VR Graffiti](https://drive.google.com/file/d/1j_qiP1AdFVYgPSvCYvl87e3BGfqrVPNC/view?usp=drive_link) и [VR Greece](https://drive.google.com/file/d/1PSA6ahxxrxiUU1AGNMPpVsnxgAj1zvbR/view?usp=drive_link)
 - Самостоятельно создавал игровую логику в Unity на `SteamVR`
 - Вёрстка UI, интеграция и доработка 2D и 3D ассетов, шейдеры, VFX, звуковые эффекты
 - Видеоролики с 3D-визуализациями для медицинской компании: 2D и 3D ассеты, VFX, шейдеры, финальный рендеринг в Unity
