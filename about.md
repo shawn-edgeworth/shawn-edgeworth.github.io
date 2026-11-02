@@ -17,7 +17,7 @@ Senior Unity Developer с 8+ годами коммерческого опыта 
 
 *Февраль 2023 - сентябрь 2026 | Remote*
 
-#### [Laundry Simulator]((https://play.google.com/store/apps/details?id=com.fruitshake.laundry.sim&hl=en)
+#### [Laundry Simulator](https://play.google.com/store/apps/details?id=com.fruitshake.laundry.sim&hl=en)
 
 - First-Person Cozy Simulator (**210K+ установок**), разработанный в сотрудничестве с **Azur Games**
 - Игровая логика сортировки вещей и система питомцев, включая A*, AI-поведение, работу с моделями и анимациями
