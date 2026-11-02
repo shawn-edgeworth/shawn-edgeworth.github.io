@@ -4,7 +4,7 @@
     {
       "name": "GameStore",
       "url": "https://github.com/shawn-edgeworth/gamestore",
-      "description": "API "онлайн" магазина игр на ASP.NET Core с использованием PostgreSQL и поднятием БД через Docker: каталог игр, регистрация, авторизация, JWT, кошелёк, корзина, оформление и возврат заказов, Steam URL парсер.",
+      "description": "API ""онлайн"" магазина игр на ASP.NET Core с использованием PostgreSQL и поднятием БД через Docker: каталог игр, регистрация, авторизация, JWT, кошелёк, корзина, оформление и возврат заказов, Steam URL парсер.",
       "image": "images/gamestore.png",
       "visibility": "Public",
       "language": "C#",
