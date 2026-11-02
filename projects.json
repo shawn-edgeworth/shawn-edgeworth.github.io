@@ -13,7 +13,7 @@
     {
       "name": "JustMoby Unity Kids 2D",
       "url": "https://github.com/shawn-edgeworth/justmoby-unity-kids-2d",
-      "description": "2D-игра на Unity 2022.3: палитра из кубов, справо место под строительство башни, слева дырка для уничтожения кубиков. Zenject, DOTween, Localization.",
+      "description": "2D-игра на Unity 2022.3: Игра про построение башни из кубов и возможностью их выбрасывать в последствии. Тестовое задание. Zenject, DOTween, Localization.",
       "image": "images/justmoby-unity-kids-2d.png",
       "visibility": "Public",
       "language": "C#",
