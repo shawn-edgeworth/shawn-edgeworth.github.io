@@ -100,3 +100,7 @@ Senior Unity Developer с 8+ годами коммерческого опыта 
 ## Образование
 
 СПбГУТ им. проф. М.А. Бонч-Бруевича, Санкт-Петербург. Фотоника и оптоинформатика, бакалавр, 2020.
+
+## Портфолио сделанных игр
+
+[Google Drive](https://drive.google.com/drive/u/0/folders/1OkogxRmKm1SQUMoW2wyh2cIvjIJ-6EFK)
