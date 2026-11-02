@@ -6,7 +6,7 @@ Senior Unity Developer с 8+ годами коммерческого опыта 
 
 - Языки: *C#, HLSL, SQL*
 - Unity: *URP, UGUI, Zenject, ECS, FSM, OpenXR, SteamVR, шейдеры, VFX, Addressables, расширения редактора*
-- Игры: *игровые механики, UI, 2D и 3D, анимации, CTR и R&D прототипы, оптимизация производительности, памяти и размера сборки, Git-Flow
+- Игры: *игровые механики, UI, 2D и 3D, анимации, CTR и R&D прототипы, оптимизация производительности, памяти и размера сборки, Git-Flow*
 - SDK: *Firebase, Firestore, Crashlytics, AppsFlyer, AppMetrica, AppLovin, RuStore SDK*
 - Инструменты: *Git, Visual Studio, VS Code, Rider, Blender, Krita, Figma, YouTrack, Substance Painter, Affinity Designer, Audacity*
 - Языки: *русский - родной, английский - B1*
