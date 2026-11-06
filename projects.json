@@ -18,6 +18,15 @@
       "visibility": "Public",
       "language": "C#",
       "languageColor": "#178600"
+    },
+    {
+      "name": "Todo CLI",
+      "url": "https://github.com/shawn-edgeworth/golang-todo-cli",
+      "description": "Простое консольное приложение на Go для составление списка задач и изменения их статуса.",
+      "image": "images/todo_cli",
+      "visibility": "Public",
+      "language": "Go",
+      "languageColor": "#178600"
     }
   ]
 }
